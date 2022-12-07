@@ -38,3 +38,33 @@ body{
 .image-container > p{
     font-size: 16px;
 }
+
+.tribute-info > li{
+    display: flex;
+    
+}
+
+li{
+    margin: 20px;
+    font-size: 1em;
+
+}
+span{
+    font-weight: bold;
+}
+
+.tribute-info{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    padding-top: 32px;
+
+}
+
+.tribute-paragraph{
+    font-style: italic;
+    padding-left: 36px;
+}
+
